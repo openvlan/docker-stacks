@@ -1,0 +1,58 @@
+1.- In section 5.4, "Testing and Validation Reports" is mentioned as a deliverable, but in the payment schedule (section 10), "Strategic Plan and Legal Framework Recommendations Report" appears as the 4th deliverable. Could you clarify which is the correct deliverable for the 4th payment of 25%?
+Respuesta:
+The correct and 4th deliverable is the “Testing and Validation Reports”.
+2.- Does the scope include the creation of dashboards and reports, or only the preparation of the data warehouse as a data source for third parties to develop the dashboards?
+Respuesta:
+The scope includes building an automated data warehouse as a data source that will be used as the main data source for dashboard, statistics and reporting.
+3.- Does this training need to be included in the proposal or is it a separate component?
+Respuesta:
+Neither the scope of works nor the project deliverables indicated training. However, knowledge transfer will occur during the consultative stage, the data warehouse operationalization and documentation for end users.
+4.- Should documentation for end users be included in addition to technical documentation?
+Respuesta:
+Yes, this would be useful.
+5.- What are the current MoI database systems that need to be integrated? (e.g., SQL Server, Oracle, MySQL, PostgreSQL, legacy systems)
+Respuesta:
+SQL and MySQL
+6.- Is there any technological preference or restriction for the data warehouse platform? (e.g., Microsoft, Oracle, open source)
+Respuesta:
+Preferred Microsoft
+7.- Should the solution be implemented on-premise, in the cloud, or is there flexibility to propose a hybrid architecture?
+Respuesta:
+To be determined from analysis
+8.- What is the approximate data volume currently handled by the MoI? (records per main table, total GB)
+Respuesta:
+close to 1 TB of data
+9.-Is there server infrastructure available at the MoI or should it be included in the proposal?
+Respuesta:
+To be determined from analysis
+10.- How many different transactional systems need to be integrated into the data warehouse?
+Respuesta:
+To be determined from analysis
+11.- Do these systems have available APIs or should integration be performed directly with the databases?
+Respuesta:
+To be determined from analysis
+12.- Is technical documentation of current systems available for the CF?
+Respuesta:
+Yes, MOI can assist with providing such documentation
+13.- Should infrastructure costs (servers, storage) be included in the proposal?
+Respuesta:
+Yes, please include infrastructure costs
+14.- How frequently should the ETL process run? (real-time, daily, weekly, monthly)
+Respuesta:
+To be determined from analysis
+15.- Is it required to maintain a complete historical record of data or only a specific period?
+Respuesta:
+It is required to maintain a complete historical record of data.
+16.- What are the specific performance criteria that the data warehouse must meet? (query response time, ETL throughput)
+Respuesta:
+To be determined from analysis
+17.- Approximately how many concurrent users will access the data warehouse?
+Respuesta:
+To be determined from analysis
+18.- Are different access levels required by roles or departments?
+Respuesta:
+Yes, it will be required.
+19.- In what time zone should coordination meetings with the MoI and IDB be scheduled?
+Respuesta:
+local Belize time (GMT -6)
+
